@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: rgb(228, 228, 228);
+}
+
+#container div{
+    height: 370px;
+    width: 500px;
+    margin: 60px;
+    text-align: center;
+    background: white;
+}
